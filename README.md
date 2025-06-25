@@ -1,5 +1,4 @@
 # Google-looker-studio-dashboard
-README for Google Looker Studio Dashboard
 
 Welcome to My Dashboard
 
@@ -52,6 +51,5 @@ If you have any questions, feedback, or need assistance, please feel free to rea
 Email: esthernweze200@gmail.com
 Phone: 08163241509
 
-Thank you for using this dashboard!
 
 
